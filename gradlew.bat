@@ -1,0 +1,3 @@
+@rem Gradle wrapper script stub for Windows
+@echo off
+echo Running Gradle Wrapper...
